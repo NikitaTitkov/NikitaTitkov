@@ -1,6 +1,6 @@
 - ### 💻 Core Stack: **Go, С++**. Mainly focused on Backend.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaTitkov&show_icons=true&locale=en&layout=compact&theme=default" alt="NikitaTitkov"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaTitkov&show_icons=true&locale=en&layout=compact&theme=dark" alt="NikitaTitkov"/>
 
 - ### :hammer_and_wrench: Languages and Tools :
 <div>
